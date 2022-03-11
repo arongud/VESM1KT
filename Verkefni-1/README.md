@@ -51,8 +51,8 @@ void setup() {
 
 1. Incididunt
 2. laborum
- i. mollit
-ii. cupidatat
+ I. mollit
+II. cupidatat
 3. aboris
 4. anim
 
