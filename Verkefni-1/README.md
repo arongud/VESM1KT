@@ -39,14 +39,14 @@ title Tölur úr tóflunni hér að ofan
 "Hægri" :56
 ```
 
-Dolore ut velit
+### Dolore ut velit
 
-
+```js
 void setup() {
     Serial.begin(9600);
     Serial.println("Halló");
 }
-
+```
 Commodo occaecat
 
 Incididunt
