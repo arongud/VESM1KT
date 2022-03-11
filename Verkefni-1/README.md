@@ -5,7 +5,7 @@
 2. Ex est eiusmod quis in tempor
    * Nulla consequat in duis quis
 3. Ad esse sit nostrud est sit sunt
-Eiusmod tempor et fugiat
+   * Eiusmod tempor et fugiat
 Dolore ut velit
 Commodo occaecat
 Occaecat amet labore
