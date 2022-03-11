@@ -1,14 +1,14 @@
 # Verkfni 1
 # Irure veniam deserunt excepteur
 
-1. Eu excepteur id pariatur velit
-2. Ex est eiusmod quis in tempor
-   * Nulla consequat in duis quis
-3. Ad esse sit nostrud est sit sunt
-   * Eiusmod tempor et fugiat
-   * Dolore ut velit
-4. Commodo occaecat
-5. Occaecat amet labore
+1. [Eu excepteur id pariatur velit](#eu-excepteur-id-pariatur-velit)
+1. [Ex est eiusmod quis in tempor](#ex-est-eiusmod-quis-in-tempor)
+    - [Nulla consequat in duis quis](#nulla-consequat-in-duis-quis)
+1. [Ad esse sit nostrud est sit sunt](#ad-esse-sit-nostrud-est-sit-sunt)
+    - [Eiusmod tempor et fugiat](#eiusmod-tempor-et-fugiat)
+    - [Dolore ut velit](#dolore-ut-velit)
+1. [Commodo occaecat](#commodo-occaecat)
+1. [Occaecat amet labore](#occaecat-amet-labore)
 
 ## Eu excepteur id pariatur velit
 
@@ -51,22 +51,23 @@ void setup() {
 
 1. Incididunt
 2. laborum
-  i) mollit
-  ii) cupidatat
-3. aboris
+    1. mollit
+    2. cupidatat
+3. laboris
 4. anim
 
 Velit sit sunt incididunt ipsum eiusmod id ipsum deserunt sint non enim.
 
-deserunt
-sit
-aliqua
-eiusmod
-irure
-aliquip
+* deserunt
+  - sit
+  - aliqua
+    - eiusmod
+  - irure
+* aliquip
 
 ## Occaecat amet labore
 
-Slóð á mynd: https://tskoli.is/wp-content/uploads/2019/06/skolavorduholt-595x440.jpg
+![Slóð á mynd:](https://tskoli.is/wp-content/uploads/2019/06/skolavorduholt-595x440.jpg)
 
-Video id: HUBNt18RFbo
+[![](https://img.youtube.com/vi/HUBNt18RFbo/0.jpg)](https://www.youtube.com/watch?v=HUBNt18RFbo)
+
