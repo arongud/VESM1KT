@@ -32,11 +32,11 @@ Incididunt commodo aliqua et Lorem veniam velit velit ullamco eiusmod do pariatu
 ### Eiusmod tempor et fugiat
 
 ```mermaid
-pei
+pie
 title Tölur úr tóflunni hér að ofan 
-       "Miðja" :12
-       "Vinstri" :34
-       "Hægri" :56
+"Miðja" :12
+"Vinstri" :34
+"Hægri" :56
 ```
 
 Dolore ut velit
