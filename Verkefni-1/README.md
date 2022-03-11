@@ -51,10 +51,10 @@ void setup() {
 
 1. Incididunt
 2. laborum
-     i. mollit
-     ii. cupidatat
-laboris
-anim
+mollit
+cupidatat
+3. aboris
+4. anim
 
 Velit sit sunt incididunt ipsum eiusmod id ipsum deserunt sint non enim.
 
